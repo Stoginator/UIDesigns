@@ -10,6 +10,10 @@ I was the frontend developer on this project.<br>
 As usual, I iterated on the website on paper before moving to Figma.<br>
 The website was created with TypeScript, React, TailwindCSS, and MaterialUI components.
 
+## Initial Drawings
+Please view [**Hog Trap Drawings**](https://github.com/Stoginator/UIDesigns/blob/main/Helluva%20Hog%20Trap/Helluva%20Hog%20Trap%20Drawings.pdf "Hog Trap Drawings") for detailed illustrations of functions and features of the app.
+
+
 # Screenshots
 ## Log In & Create Account
 <img src="https://github.com/Stoginator/UIDesigns/blob/main/Helluva%20Hog%20Trap/Log%20In.png" width=40% height=40%> <img src="https://github.com/Stoginator/UIDesigns/blob/main/Helluva%20Hog%20Trap/Create%20an%20Account.png" width=40% height=40%>
