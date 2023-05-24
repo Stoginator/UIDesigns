@@ -1,5 +1,5 @@
 # Helluva Hog Trap
-Spring 2023
+Spring 2023<br><br>
 The purpose of the website was to provide a visual user interface to a then-SMS-only interface.<br>
 Users needed to manage their hog trap systems, visualize the information provided by each trap, and request new information in addition to basic account management. 
 <br><br>
