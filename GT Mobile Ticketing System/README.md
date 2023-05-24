@@ -1,3 +1,4 @@
 # Georgia Tech Mobile Ticketing System
 
-![alt text](/GT%20Mobile%20Ticketing%20System/Create%20Ticket.png?raw=true "Create Ticket Page")
+
+<img src="https://github.com/Stoginator/UIDesigns/blob/main/GT%20Mobile%20Ticketing%20System/Log%20In.png" width=50% height=50%>
